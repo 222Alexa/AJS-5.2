@@ -38,3 +38,5 @@ function Character(name, type) {
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функции, которую вы тестируете.
 
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/rqn8ptn31eib1xhf/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-5-2/branch/main)
